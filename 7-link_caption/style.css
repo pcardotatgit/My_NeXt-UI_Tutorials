@@ -1,0 +1,11 @@
+body,html{
+        height: 100%;
+    }
+.sourcelabel {
+    font-size: 11px;
+    fill: #00a9ff;
+}
+.targetlabel {
+    font-size: 11px;
+    fill: #0011ff;
+}

@@ -35,4 +35,7 @@ There are not a lot of Next-UI tutorials available.  I decided to publish mine i
 - https://d1nmyq4gcgsfi5.cloudfront.net/site/neXt/learn/
 - https://d1nmyq4gcgsfi5.cloudfront.net/site/neXt/discover/demo/
 - https://github.com/NeXt-UI/next-bower
+- https://github.com/alwye/next-ui-demos
+- https://github.com/NeXt-UI/next-tutorials/tree/master/tutorials
+
 
