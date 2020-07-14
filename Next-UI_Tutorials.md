@@ -44,3 +44,8 @@ https://github.com/NeXt-UI/next-tutorials/blob/master/tutorials/letsplay/letspla
 
 https://github.com/NeXt-UI/next-tutorials/blob/master/tutorials/letsplay/letsplay-07.md
 
+# Step 3 #
+
+And then go there. 
+
+https://d1nmyq4gcgsfi5.cloudfront.net/site/neXt/learn/

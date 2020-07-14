@@ -29,7 +29,7 @@ And Very quickly without spending hours to learn how to master it.
 
 There are not a lot of Next-UI tutorials available.  I decided to publish mine in order to complete existing ones. 
 
-# Credits #
+# References #
 
 - https://github.com/NeXt-UI/next-tutorials
 - https://d1nmyq4gcgsfi5.cloudfront.net/site/neXt/learn/
