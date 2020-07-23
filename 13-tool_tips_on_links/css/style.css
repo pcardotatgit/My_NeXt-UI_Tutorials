@@ -1,0 +1,15 @@
+table, th, td, tr {
+   border: 1px solid red;
+   text-align: left;
+  padding: 10;
+}
+tbody tr:nth-child(odd) {
+  background: #eee;
+}
+tbody tr:hover {
+  background: yellow;
+}
+body,
+html {
+  height: 100%;
+}
