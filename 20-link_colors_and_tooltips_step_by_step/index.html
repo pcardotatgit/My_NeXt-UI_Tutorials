@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="../next_libraries/css/next.css">
+	<link rel="stylesheet" href="style.css">
+	<script type="text/javascript" src="../next_libraries/js/next.js"></script>
+	<script type="TEXT/javascript">
+
+	<!--	
+    function popup_window( url, id, width, height )
+    {
+       //extract the url parameters if any, and pass them to the called html
+       var tempvar=document.location.toString(); // fetch the URL string
+       var passedparams = tempvar.lastIndexOf("?");
+       if(passedparams > -1)
+          url += tempvar.substring(passedparams);
+      popup = window.open( url, id, 'toolbar=yes,scrollbars=yes,location=no,statusbar=no,menubar=yes,resizable=yes,width=' + width + ',height=' + height + '' );
+      popup.focus();
+    }	
+	function goto(liste)
+	{
+		if(liste.action.selectedIndex != 0)
+		location = liste.action.options[liste.action.selectedIndex].value;
+	} 
+	-->
+	</script>	
+</head>
+<body>
+	<div id="topology-container"></div>
+	<!-- Application scripts -->
+	<script type="text/javascript" src="data/topology_data.js"></script>
+	<script type="text/javascript" src="app/topology.js"></script>
+	<script type="text/javascript" src="app/main.js"></script>
+</body>
+</html>
